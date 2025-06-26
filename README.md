@@ -1,6 +1,6 @@
 # AutoGen Projects Directory
 
-This directory (`autogen_pruebas/`) is dedicated to projects, experiments, and prototypes built using Microsoft's AutoGen framework and related agent-based technologies.
+This directory (`autogen_projects/`) is dedicated to projects, experiments, and prototypes built using Microsoft's AutoGen framework and related agent-based technologies.
 
 ## What to Expect
 - **Multiple AutoGen Projects**: Each subfolder or script may represent a different experiment, demo, or advanced use case.
