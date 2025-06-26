@@ -1,0 +1,17 @@
+# Core dependencies
+openai>=1.0.0
+python-dotenv>=1.0.0
+
+# AutoGen and extensions
+# (Replace with the actual package names/versions if available)
+autogen-agentchat>=0.4.0
+autogen-ext>=0.4.0
+
+# For async and typing
+asyncio
+
+# For MCP GitHub integration (requires Node.js for MCP server)
+# Node.js and npx must be installed on your system
+
+# Optional: For code execution (if enabled)
+docker 
