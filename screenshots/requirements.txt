@@ -1,0 +1,25 @@
+# Core dependencies
+openai>=1.0.0
+python-dotenv>=1.0.0
+
+# AutoGen and extensions
+# (Replace with the actual package names/versions if available)
+autogen-agentchat>=0.4.0
+autogen-core>=0.4.0
+autogen-ext[openai,mcp,magentic-one]>=0.4.0
+
+# For async and typing
+asyncio
+
+# For browser automation and screenshots
+playwright>=1.40.0
+
+# For image processing (optional, for advanced screenshot handling)
+pillow
+
+# For MCP GitHub integration (optional)
+mcp>=1.0.0
+uvx>=0.1.0
+
+# For robust logging
+rich 
